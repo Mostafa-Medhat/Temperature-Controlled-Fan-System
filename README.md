@@ -45,6 +45,3 @@ An automatic temperature control system using ATmega16 microcontroller, in which
 - Proteus
 
 ## Demo
-<p align="center">
-  <img src="https://github.com/Mostafa-Medhat/Temperature-Controlled-Fan-System/blob/main/docs/Demo.gif?raw=true">
-</p>
